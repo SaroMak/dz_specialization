@@ -7,3 +7,6 @@
 3. the program sorts the array;
 
 4. the program prints a new array.
+
+Блок-схема:
+![Блок схема](dz.jpg.jpg)
